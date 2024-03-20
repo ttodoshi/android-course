@@ -1,8 +1,4 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="default_counter_value">0</string>
-    <string name="toast">Toast</string>
-    <string name="count">Count</string>
-    <string name="random">Random</string>
-    <string name="random_generated_number">Random generated number:</string>
+    <string name="refetch">Fetch</string>
 </resources>
